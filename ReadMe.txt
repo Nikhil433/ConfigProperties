@@ -1,0 +1,1 @@
+Config properties for config server
